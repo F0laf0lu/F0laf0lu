@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🚀 Skills
+
+- Html, Css, Javascript
+
+- Backend Development: Python, Django, Flask
+
+- Databases: PostgreSQL, MySQL, MongoDB
+
+- RESTful APIs: Django REST Framework, FastAPI
+
+- Version Control: Git, GitHub
