@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Folafolu </h1>
+<h1 align="center">Hi 👋, I'm Fola </h1>
 <h3 align="center">A passionate software developer with experience in developing and testing production applications. My areas of strength include backend development. I am always ready to learn new stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=F0laf0lu&label=Profile%20views&color=0e75b6&style=flat" alt="F0laf0lu" /> </p>
