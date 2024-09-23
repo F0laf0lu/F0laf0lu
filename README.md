@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://x.com/_jaiyejeje" target="blank"><img src="https://img.shields.io/twitter/follow/_jaiyejeje?logo=twitter&style=for-the-badge" alt="folafolu" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithm**
-
 - 👯 I’m looking to collaborate on **anything exciting**
 
 - 📝 You can always find me on [https://x.com/_jaiyejeje](https://x.com/_jaiyejeje) 
