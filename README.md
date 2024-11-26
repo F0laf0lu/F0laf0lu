@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **anything exciting**
 
-- 📝 You can always find me on [https://x.com/_jaiyejeje](https://x.com/_jaiyejeje) 
-
 - 💬 Ask me about **Python, Clean code and Music**
 
 - 📫 How to reach me **folafoluosilaja@gmail.com**
