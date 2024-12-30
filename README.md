@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything exciting**
 
-- 💬 Ask me about **Python, Clean code and Music**
+- 💬 Ask me about **Python, Clean code**
 
 - 📫 How to reach me **folafoluosilaja@gmail.com**
 
