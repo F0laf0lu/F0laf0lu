@@ -33,11 +33,11 @@ I'm a passionate software engineer with a strong focus on backend engineering. I
 
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0laf0lu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="F0laf0lu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=F0laf0lu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="F0laf0lu" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=F0laf0lu&theme=vue-dark&hide_border=true" alt="F0laf0lu" />
 </p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F0laf0lu&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="F0laf0lu" /></p>
 
 
 ## CONNECT WITH ME
